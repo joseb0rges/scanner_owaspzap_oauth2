@@ -5,4 +5,4 @@ usando a implementação do owapzap em container o mesmo pode ser adaptado em pi
 
 ``` bash ./runZap.sh 'url_api' 'user' 'pass' 'file_transactions.json'  'report.html' ``` 
 
-** file_transactions.json => Arquivo de transações em formato openapi. **
+#### Obs.: file_transactions.json => Arquivo de transações em formato openapi
